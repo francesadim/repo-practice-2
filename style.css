@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  color: darkblue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+button {
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: lightblue;
+}
